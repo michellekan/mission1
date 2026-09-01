@@ -1,0 +1,45 @@
+## You are one step closer. The map leads the way.
+## Complete Quest 1 and 2.
+
+## Quest 1 ##
+# Crybaby is lost. He is currently in the same location as you.
+# He wants to reach the cavern within the canyon.
+# Crybaby is in tears as the folder path below is broken. 
+# Choose ONE option for each blank (a), (b), and (c) so that the path leads to the cavern.
+
+../18/../../___(a)___/desert/___(b)___/../../canyon/___(c)___/cavern
+
+Part (a): 
+1: treasure
+2: sands
+3: . 
+4: ..
+
+Part (b):
+1: ..
+2: sands
+3: .
+4: here_it_is
+
+Part (c):
+1: bird_nest
+2: .
+3: ..
+4: volcano
+
+## Quest 2 ##
+# Add the option numbers of (a), (b), and (c).
+# Locate the clue whose number matches the sum.
+# sum : clue
+
+# 3 : Admire the flat lands of the plateau.
+# 4 : Climb the trees of the forest and read the ranger's note.
+# 5 : Chase the green northern lights in the valley.
+# 6 : Admire the Milky Way from the tundra.
+# 7 : Enjoy the cooling splash beneath the waterfall.
+# 8 : Follow the snow trail where the glacier lies.
+# 9 : Watch the sunrise from Peak 15 of the mountain.
+# 10: Take a peek above the jungle canopy.
+# 11: Harvest seaweed from the seabed of the coral reef.
+# 12: Take a dip at the east river bank.
+

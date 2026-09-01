@@ -1,0 +1,18 @@
+# Right on target! Your journey continues. 
+# A file named icicle.txt currently has permissions "rwxrw-r-x". It must be updated to "rw-rw-r--".
+# One of the commands below does NOT produce the target permissions. Its destination is your next stop.
+
+1: chmod g=rw,o=r,u=rw icicle.txt
+Destination: 🌋 The earth breathes fire and heat rises from below.
+
+2: chmod ug-x,o-wx icicle.txt
+Destination: 💧 Water tumbles from above day and night. Cool mist fills the air. 
+
+3: chmod uo-x icicle.txt
+Destination: 🌴 The trees grow thick and tall. Monkeys call this home.  
+
+4: chmod g-x,uo-x icicle.txt
+Destination: 🪸 Home to the clownfish, where waters are clear and full of ocean life.
+
+5: chmod g=rw,o=rw,u=r icicle.txt
+Destination: 🌵 The sand is dry and endless. To a cactus, this is heaven.

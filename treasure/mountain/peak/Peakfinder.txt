@@ -1,0 +1,46 @@
+# Complete the following quests to seek the mountain peak to climb.
+# - Seek the gemstone artifact, big or small. 
+# - Travel an exact distance of 5 miles, but don't head south. 
+# - Count the most frequent weather— that number is your next stop.
+
+#date_region_location_weather_artifact_distance_points_guide
+2026-01-01_North_Forest_Cloudy_gemsToNe_5_15_Alex
+2026-01-02_East_River_Sunny_map_3_20_Ben
+2026-01-03_West_Cave_Cloudy_GemstonE_5_25_Chris
+2026-01-04_North_Lake_Cloudy_gEmstone_5_18_Ethan
+2026-01-05_South_Mountain_Sunny_key_4_30_Diana
+2026-01-06_East_Forest_Windy_coin_1_10_Fiona
+2026-01-07_South_River_Cloudy_GEmSTONE_5_22_Gavin
+2026-01-08_West_Cave_Rainy_scroll_2_14_Hannah
+2026-01-09_North_Mountain_Cloudy_gemStone_5_35_Ivan
+2026-01-10_East_Lake_Sunny_map_4_16_Jade
+2026-01-11_West_Forest_Cloudy_GEmSTonE_55_24_Kai
+2026-01-12_South_River_Windy_key_2_12_Liam
+2026-01-13_North_Cave_Sunny_GeMsToNe_5_11_Mia
+2026-01-14_East_Mountain_Rainy_coin_5_28_Noah
+2026-01-15_West_Lake_Cloudy_gemStone_5_21_Olivia
+2026-01-16_North_Forest_Sunny_map_3_17_Paul
+2026-01-17_East_River_Cloudy_GemStone_5_19_Quinn
+2026-01-18_West_Cave_Windy_gemstonE_5_27_Ryan
+2026-01-19_South_Mountain_Cloudy_GEMStone_5_32_Sophia
+2026-01-20_North_Lake_Rainy_key_1_9_Theo
+2026-01-21_East_Forest_Foggy_gEmStone_5_23_Uma
+2026-01-22_West_River_Sunny_coin_3_13_Vera
+2026-01-23_North_Cave_Foggy_GeMsTOne_5_15_Will
+2026-01-24_East_Mountain_Windy_map_5_26_Xena
+2026-01-25_South_Lake_Foggy_gEmStOnE_5_20_Yuki
+2026-01-26_West_Forest_Rainy_key_4_18_Zane
+2026-01-27_North_River_Foggy_GEMSTONe_5_29_Ava
+2026-01-28_East_Cave_Sunny_coin_2_14_Blake
+2026-01-29_West_Mountain_Cloudy_GEMStone_51_31_Cole
+2026-01-30_North_Lake_Sunny_map_1_8_Drew
+2026-01-31_East_Forest_Rainy_coin_5_17_Emma
+2026-02-01_West_River_Cloudy_key_3_15_Fred
+2026-02-02_South_Cave_Sunny_scroll_5_18_Grace
+2026-02-03_North_Mountain_Foggy_map_2_12_Hugo
+2026-02-04_East_Lake_Rainy_coin_4_16_Iris
+2026-02-05_West_Forest_Sunny_key_5_19_Jack
+2026-02-06_North_River_Cloudy_gEmstone_5_11_Kelly
+2026-02-07_East_Cave_Sunny_map_3_13_Lucas
+2026-02-08_West_Mountain_Rainy_key_2_10_Megan
+2026-02-09_North_Lake_Cloudy_GEMSTONE_5_22_Nathan
